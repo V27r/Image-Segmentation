@@ -17,9 +17,9 @@ The repository is organized as follows:
 - **ResNet/**: Contains segmentation results and relevant files for the ResNet model.
 - **DeepLab/**: Contains segmentation results and relevant files for the DeepLab model.
 - **Gt/**: Contains ground truth images used for comparison.
-- **Img/**: Contains the original images used in the segmentation process.
+- **Img/**: Contains the masks for the images used in the segmentation process.
 - **Gt-Test/**: Contains ground truth images for testing.
-- **Img-Test/**: Contains original images for testing.
+- **Img-Test/**: Contains maks for the images for testing.
 - **target.png**: A base image used for color normalization through the Reinhard method.
 
 ## Running the Project
